@@ -1242,7 +1242,7 @@ img {
 .main-menu ul li a {
     color: #454545;
     display: block;
-    font-size: 16px;
+    font-size: 18px;
     font-family: "Roboto", sans-serif;
     padding: 15px 13px;
     font-weight: 400;
@@ -1904,7 +1904,7 @@ img {
     height: 350px;
     margin-top: 96px;
     background-color: #f14091;
-    background-image: url("../images/sec-img/aboutimg.jpg");
+    background-image: url("../images/aboutimg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -3436,7 +3436,7 @@ img {
 /*2.13 Happy-Clients css*/
 
 .happy-clients {
-    background-image: url("../images/happy-clients/hpbgjpg.jpg");
+    background-image: url("../images/hpbgjpg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -6148,7 +6148,7 @@ form.my-accoount a:hover {
     margin: 0 0 0;
     font-size: 13px;
     text-transform: uppercase;
-    color: #adb2b7;
+    color: #fff;
     letter-spacing: 2px;
     position: relative;
 }
@@ -6567,7 +6567,7 @@ a.d-b:focus {
 	
 }
 .site-header.home_3_2  .main-menu > ul > li:hover > a, .site-header.home_3_2  .main-menu > ul > li.current-menu-item > a{
-	color:#fff;
+	color:#ff9dca;
 }
  .site-header.home_3_2 .main-menu > ul > li:before{background:#fff}
 .site-header.home_3_2.sticky  {
