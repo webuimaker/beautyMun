@@ -1240,7 +1240,7 @@ img {
 }
 
 .main-menu ul li a {
-    color: #454545;
+    color: #fff;
     display: block;
     font-size: 18px;
     font-family: "Roboto", sans-serif;
@@ -4632,14 +4632,14 @@ a.cmnt-link-share i.fa {
 .GetInBox .single--getIntouch i.fa {
     color: #f14091;
     margin-bottom: 15px;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .GetInBox .single--getIntouch p {
     color: #323232;
-    font-size: 14px;
+    font-size: 24px;
     margin: 0 0 4px;
-    line-height: 20px;
+    line-height: 30px;
 }
 
 .GetInBox .single--getIntouch.contact-page {
@@ -5958,14 +5958,14 @@ form.my-accoount a:hover {
 .single-footer .navigation-links li:after {
     position: absolute;
     left: 0;
-    top: 50%;
+    top: 60%;
     -webkit-transform: translate(0, -50%);
     transform: translate(0, -50%);
     width: 5px;
     height: 5px;
     border-radius: 50%;
     content: "";
-    background: #666;
+    background: #fff;
 }
 
 .single-footer .navigation-links li a {
@@ -6141,7 +6141,7 @@ form.my-accoount a:hover {
 
 .footer-bottom {
     padding-top: 40px;
-    padding-bottom: 40px;
+    padding-bottom: 0px;
 }
 
 .footer-bottom .footer-copyright P {
@@ -6184,7 +6184,7 @@ form.my-accoount a:hover {
 
 .site-footer-orange{
 	background-image: url(../images/open-img/open-bgjpg.jpg);
-    padding: 50px 0;
+    padding: 20px 0;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -6551,6 +6551,11 @@ a.d-b:focus {
 .card.custombg .card-header h5 a {
     color: #323232;
     font-weight: 500;
+}
+
+.price {
+	display:inline-block;
+	margin-right:10px;
 }
 
 /********************************
