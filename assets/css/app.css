@@ -6196,7 +6196,7 @@ form.my-accoount a:hover {
 	display:inline-block;
 }
 .site-footer-orange  .navigation-links li a{color:#fff}
-.site-footer-orange  .navigation-links li a:hover{color:#adb2b7}
+.site-footer-orange  .navigation-links li a:hover, .site-footer-orange  .navigation-links li a.active{color:#ff9dca}
 
 #scrollUp {
     position: fixed;
@@ -6559,7 +6559,6 @@ a.d-b:focus {
 }
 .card.custombg .card-header h5 a .text{
 	width: 90%;
-    float: left;
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
